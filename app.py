@@ -4,7 +4,6 @@ init()
 
 print(Back.BLACK)
 print(Fore.GREEN)
-
 what = input('Что будете делать?: +, -, *, /: ')
 
 print(Back.RED)
